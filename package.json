@@ -4,7 +4,7 @@
   "version": "0.4.0",
   "description": "three.js developer tools web extension",
   "scripts": {
-   "start": "index.html",
+   "start": "node index.js",
     "build:source": "./scripts/build-source.sh",
     "build:deps": "./scripts/build-deps.sh",
     "build:dist": "./scripts/build-dist.sh",
