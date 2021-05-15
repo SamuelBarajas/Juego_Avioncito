@@ -1,3 +1,5 @@
+import * as THREE from './js/three.module.js';
+
 //COLORS
 var Colors = {
     red:0xf25346,
